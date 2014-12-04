@@ -1,0 +1,20 @@
+{
+  "name": "input-mask",
+  "version": "0.0.0",
+  "homepage": "https://github.com/vsuhanov/input-mask",
+  "authors": [
+    "Vitaly Suhanov <vitalijs.suhanovs@gmail.com>"
+  ],
+  "main": "demo.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.5"
+  }
+}
